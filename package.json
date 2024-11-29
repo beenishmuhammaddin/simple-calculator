@@ -1,0 +1,17 @@
+{
+  "name": "simple-calcu",
+  "version": "1.0.0",
+  "description": "A simple calculator with typescript, node.js and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Beenish Rajput",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^12.1.0",
+    "simple-calcu": "^1.0.0"
+  }
+}
